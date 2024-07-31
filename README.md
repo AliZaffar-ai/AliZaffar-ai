@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliZaffar-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=rose_pine&hide_border=true&order=3" height="260" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AliZaffar-ai&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AliZaffar-ai&locale=en&mode=monthly&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
