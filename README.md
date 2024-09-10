@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliZaffar-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=rose_pine&hide_border=true&order=3" height="260" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliZaffar-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=18&theme=rose_pine&hide_border=true&order=3" height="260" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AliZaffar-ai&locale=en&mode=monthly&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -46,7 +46,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="25" alt="mongodb logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="25" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="25" alt="trello logo"  />
   <img width="10" />
